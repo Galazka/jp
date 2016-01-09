@@ -10,7 +10,7 @@
 1. [Klimko Magdalena](https://github.com/mklimko/jprog)
 1. [Rybczyński Hubert](https://github.com/HR12345/Repozytorium) 12.12 19.12
 1. [Sarzyński Kamil](https://github.com/223491/labc)
-
+1. Gałązka Tomasz (https://github.com/Galazka/labo)
 ----
 
 1. Gałązka Tomasz
